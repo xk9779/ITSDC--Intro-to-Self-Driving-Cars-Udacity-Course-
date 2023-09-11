@@ -1,0 +1,35 @@
+# Intro to Self-Driving Cars Projects
+
+This repository contains my work for the course "Intro to Self-Driving Cars," which includes all the projects completed during the course. Below is a list of the projects, along with author information and the time taken to complete the full course.
+
+**Author:** Mostafa Aboelnaga  
+**Email:** my.aboelnaga@gmail.com  
+**Days to Completion:** 7 days (Full course, including all projects)
+
+## Projects
+
+### Joy Ride
+- **Description:** Programmed simulated vehicle control for navigation.
+
+### 2D Histogram Filter in Python
+- **Description:** Developed sense and move functions for a 2D histogram filter in Python.
+
+### Implement a Matrix Class
+- **Description:** Applied object-oriented programming and matrix math skills to complete a Matrix class.
+
+### Translate Python to C++
+- **Description:** Translated Python-based histogram filter code into C++.
+
+### Performant C++
+- **Description:** Optimized inefficient C++ code for resource-efficient self-driving car operations.
+
+### Planning an Optimal Path
+- **Description:** Designed an algorithm for finding the quickest route using graph data structures and search algorithms.
+
+### Trajectory Visualizer
+- **Description:** Created a visualization tool for continuous trajectory visualization in self-driving car development.
+
+### Image Classifier from Scratch
+- **Description:** Developed a reliable image classifier capable of distinguishing between "pedestrian" and "car" images.
+
+Feel free to explore each project folder for more details and code.
